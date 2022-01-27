@@ -5,3 +5,11 @@ C:\Users\Sk\source\repos\SkillBoxCodeSource\Lesson_01\Homework_01\obj\Debug\Home
 C:\Users\Sk\source\repos\SkillBoxCodeSource\Lesson_01\Homework_01\obj\Debug\Homework_01.csproj.CoreCompileInputs.cache
 C:\Users\Sk\source\repos\SkillBoxCodeSource\Lesson_01\Homework_01\obj\Debug\Homework_01.exe
 C:\Users\Sk\source\repos\SkillBoxCodeSource\Lesson_01\Homework_01\obj\Debug\Homework_01.pdb
+E:\C#_develop\Skillbox\Introduction in dotNet\SkillBox-Introduction-in-DotNET\bin\Debug\Homework_01.exe.config
+E:\C#_develop\Skillbox\Introduction in dotNet\SkillBox-Introduction-in-DotNET\bin\Debug\Homework_01.exe
+E:\C#_develop\Skillbox\Introduction in dotNet\SkillBox-Introduction-in-DotNET\bin\Debug\Homework_01.pdb
+E:\C#_develop\Skillbox\Introduction in dotNet\SkillBox-Introduction-in-DotNET\obj\Debug\Homework_01.csproj.AssemblyReference.cache
+E:\C#_develop\Skillbox\Introduction in dotNet\SkillBox-Introduction-in-DotNET\obj\Debug\Homework_01.csproj.SuggestedBindingRedirects.cache
+E:\C#_develop\Skillbox\Introduction in dotNet\SkillBox-Introduction-in-DotNET\obj\Debug\Homework_01.csproj.CoreCompileInputs.cache
+E:\C#_develop\Skillbox\Introduction in dotNet\SkillBox-Introduction-in-DotNET\obj\Debug\Homework_01.exe
+E:\C#_develop\Skillbox\Introduction in dotNet\SkillBox-Introduction-in-DotNET\obj\Debug\Homework_01.pdb

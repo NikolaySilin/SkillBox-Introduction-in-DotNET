@@ -11,7 +11,7 @@ namespace Homework_01
         static void Main(string[] args)
         {
             // Создание базы данных из 20 сотрудников
-            Repository repository = new Repository(30);
+            Repository repository = new Repository(19);
 
             // Печать в консоль всех сотрудников
             repository.Print("База данных до преобразования");
